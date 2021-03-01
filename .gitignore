@@ -12,6 +12,8 @@
 .snakemake/
 *.Rhistory
 
+# keep files 
+!*YangyangLi.pdf
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
