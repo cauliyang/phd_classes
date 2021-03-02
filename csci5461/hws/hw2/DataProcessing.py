@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-
 """ Process Rna-seq and Array data
 
 @author: YangyangLi
@@ -10,10 +9,9 @@
 @file: DataProcessing.py
 @time: 2021/2/24 2:41 AM
 """
-
 import click
-import pandas as pd
 import numpy as np
+import pandas as pd
 
 
 def save_data(file, survival_info, output):

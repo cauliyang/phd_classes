@@ -1,18 +1,18 @@
-# add ignore data 
+# add ignore data
 *.pdf
 *.txt
 *.csv
-*.zip 
+*.zip
 *.gz
-*.mp4 
+*.mp4
 *.docx
-*.log 
+*.log
 *.tex
 .idea/
 .snakemake/
 *.Rhistory
 
-# keep files 
+# keep files
 !*YangyangLi.pdf
 
 # Byte-compiled / optimized / DLL files

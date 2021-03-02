@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 SAMPLES = ["daughter_SRR089532",
            "father_SRR089545",
            "mother_SRR089553",

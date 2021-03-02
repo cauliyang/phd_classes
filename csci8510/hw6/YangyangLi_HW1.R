@@ -1,16 +1,16 @@
 ## March, 2021
-## Author: Sambhawa Priya, PhD candidate (BICB), Blekhman Lab. 
+## Author: Sambhawa Priya, PhD candidate (BICB), Blekhman Lab.
 ## Contact: priya030@umn.edu
 
 ## BICB 8510
-## HW1 for microbiome analysis 
+## HW1 for microbiome analysis
 ## Based on metadata and otu tables taken from https://github.com/LangilleLab
 
 ## Preparation: Create a directory/folder named "ML_HW1" at a relevant location on your computer,
-## e.g. if you have a course directory for BICB_8510, create this directory there. 
-## Next, place this Rscript in the directory ML_HW1. 
+## e.g. if you have a course directory for BICB_8510, create this directory there.
+## Next, place this Rscript in the directory ML_HW1.
 ## Next, create a directory within ML_HW1 called "input" and place the input files
-## i.e. metadata.txt and otu_table.txt in the "input" directory. 
+## i.e. metadata.txt and otu_table.txt in the "input" directory.
 
 
 ##install libraries
@@ -23,19 +23,19 @@ library(vegan)
 current_dir <- dirname(rstudioapi::getSourceEditorContext()$path)
 
 ## Input metadata
-## This will be located in directory "ML_HW1/input/", if you followed the instruction above. 
+## This will be located in directory "ML_HW1/input/", if you followed the instruction above.
 metadata <- read.table(paste0(current_dir,"/input/metadata.txt"),sep="\t",header=T,row.names=1,stringsAsFactors=TRUE, comment.char="")
 ## Input otu table. Also should be located at "ML_HW1/input/" directory
 otu <- read.table(paste0(current_dir,"/input/otu_table.txt"),sep="\t",header=T,row.names=1,stringsAsFactors=FALSE, comment.char="")
 
 
-####### Q1: How many rows and columns do the metadata and otu have? (10 points) 
+####### Q1: How many rows and columns do the metadata and otu have? (10 points)
 
 # Answer: get shape of metadata, which includes 40 rows and 2 columns
 dim(metadata)
 # [1] 40  2
 
-# Answer: get shape of otu, which includes 1000 rows and 40 columns 
+# Answer: get shape of otu, which includes 1000 rows and 40 columns
 dim(otu)
 # [1] 1000   40
 
@@ -44,8 +44,8 @@ dim(otu)
 
 # Answer: 20 samples are categorized as inflammed and 20 samples are categorized as control.
 table(metadata$state)
-# control inflamed 
-#      20       20 
+# control inflamed
+#      20       20
 
 ## Transpose otu table to make samples as rows and otus as columns.
 otu <- as.data.frame(t(otu))
@@ -53,7 +53,7 @@ dim(otu)
 # [1]   40 1000
 
 ####### Q3: Identify common samples between metadata table and otu table. Show script. (10 points)
-## Hint: Sample names are in rows in both tables. Use "intersect" command to identify overlap.  
+## Hint: Sample names are in rows in both tables. Use "intersect" command to identify overlap.
 common_samples <- intersect(rownames(metadata), rownames(otu))
 
 ## Ensure order of samples in metadata and otu table are identical
@@ -65,9 +65,9 @@ metadata <- metadata[common_samples,]
 otu_random <- otu[,grep("OTU_77$", colnames(otu))]
 
 ####### Q4: Plot the distribution of this OTU using a histogram. Show script and upload plot. (20 points)
-## Hint: use hist(). 
+## Hint: use hist().
 tiff('Histogram.tiff', width=6, height = 4, units = 'in', res=200)
-hist(otu_random, breaks= 20, col = 'red', border = 'black', 
+hist(otu_random, breaks= 20, col = 'red', border = 'black',
      main='Histogram of OTU_77', xlab = 'Data')
-dev.off() 
+dev.off()
 

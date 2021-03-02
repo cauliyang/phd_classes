@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 SAMPLES = [
             "SRR341549",
             "SRR1770413",

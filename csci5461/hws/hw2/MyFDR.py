@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-
 """ FDR Correction
 
 @author: YangyangLi
@@ -13,8 +12,8 @@
 import sys
 
 import click
-import pandas as pd
 import numpy as np
+import pandas as pd
 from scipy.stats import ttest_ind
 
 
