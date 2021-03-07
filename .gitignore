@@ -8,6 +8,7 @@
 *.docx
 *.log
 *.tex
+*.npz
 .idea/
 .snakemake/
 *.Rhistory
