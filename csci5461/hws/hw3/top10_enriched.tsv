@@ -23,100 +23,100 @@ GO_CELL_MOTILITY	1819	Any process involved in the controlled self-propelled move
 Gene/Gene Set Overlap Matrix
 
 Entrez Gene Id	Gene Symbol	Gene Description	GO_POSITIVE_REGULATION_OF_MOLECULAR_FUNCTION	GO_REGULATION_OF_HYDROLASE_ACTIVITY	GO_GOLGI_APPARATUS	GO_WHOLE_MEMBRANE	GO_PROTEIN_HOMODIMERIZATION_ACTIVITY	GO_PROTEIN_DIMERIZATION_ACTIVITY	GO_NEUROGENESIS	GO_SMALL_GTPASE_MEDIATED_SIGNAL_TRANSDUCTION	GO_NEURON_PROJECTION	GO_CELL_MOTILITY
-26229	B3GAT3	beta-1,3-glucuronyltransferase 3 [Source:HGNC Symbol;Acc:HGNC:923]	GO_POSITIVE_REGULATION_OF_MOLECULAR_FUNCTION	GO_REGULATION_OF_HYDROLASE_ACTIVITY	GO_GOLGI_APPARATUS							
+26229	B3GAT3	beta-1,3-glucuronyltransferase 3 [Source:HGNC Symbol;Acc:HGNC:923]	GO_POSITIVE_REGULATION_OF_MOLECULAR_FUNCTION	GO_REGULATION_OF_HYDROLASE_ACTIVITY	GO_GOLGI_APPARATUS
 815	CAMK2A	calcium/calmodulin dependent protein kinase II alpha [Source:HGNC Symbol;Acc:HGNC:1460]	GO_POSITIVE_REGULATION_OF_MOLECULAR_FUNCTION	GO_REGULATION_OF_HYDROLASE_ACTIVITY		GO_WHOLE_MEMBRANE	GO_PROTEIN_HOMODIMERIZATION_ACTIVITY	GO_PROTEIN_DIMERIZATION_ACTIVITY	GO_NEUROGENESIS		GO_NEURON_PROJECTION	GO_CELL_MOTILITY
 1398	CRK	CRK proto-oncogene, adaptor protein [Source:HGNC Symbol;Acc:HGNC:2362]	GO_POSITIVE_REGULATION_OF_MOLECULAR_FUNCTION	GO_REGULATION_OF_HYDROLASE_ACTIVITY		GO_WHOLE_MEMBRANE			GO_NEUROGENESIS	GO_SMALL_GTPASE_MEDIATED_SIGNAL_TRANSDUCTION		GO_CELL_MOTILITY
 64805	P2RY12	purinergic receptor P2Y12 [Source:HGNC Symbol;Acc:HGNC:18124]	GO_POSITIVE_REGULATION_OF_MOLECULAR_FUNCTION	GO_REGULATION_OF_HYDROLASE_ACTIVITY		GO_WHOLE_MEMBRANE			GO_NEUROGENESIS			GO_CELL_MOTILITY
-57148	RALGAPB	Ral GTPase activating protein non-catalytic subunit beta [Source:HGNC Symbol;Acc:HGNC:29221]	GO_POSITIVE_REGULATION_OF_MOLECULAR_FUNCTION	GO_REGULATION_OF_HYDROLASE_ACTIVITY				GO_PROTEIN_DIMERIZATION_ACTIVITY		GO_SMALL_GTPASE_MEDIATED_SIGNAL_TRANSDUCTION		
-396	ARHGDIA	Rho GDP dissociation inhibitor alpha [Source:HGNC Symbol;Acc:HGNC:678]	GO_POSITIVE_REGULATION_OF_MOLECULAR_FUNCTION	GO_REGULATION_OF_HYDROLASE_ACTIVITY					GO_NEUROGENESIS	GO_SMALL_GTPASE_MEDIATED_SIGNAL_TRANSDUCTION		
-10636	RGS14	regulator of G protein signaling 14 [Source:HGNC Symbol;Acc:HGNC:9996]	GO_POSITIVE_REGULATION_OF_MOLECULAR_FUNCTION	GO_REGULATION_OF_HYDROLASE_ACTIVITY					GO_NEUROGENESIS		GO_NEURON_PROJECTION	
+57148	RALGAPB	Ral GTPase activating protein non-catalytic subunit beta [Source:HGNC Symbol;Acc:HGNC:29221]	GO_POSITIVE_REGULATION_OF_MOLECULAR_FUNCTION	GO_REGULATION_OF_HYDROLASE_ACTIVITY				GO_PROTEIN_DIMERIZATION_ACTIVITY		GO_SMALL_GTPASE_MEDIATED_SIGNAL_TRANSDUCTION
+396	ARHGDIA	Rho GDP dissociation inhibitor alpha [Source:HGNC Symbol;Acc:HGNC:678]	GO_POSITIVE_REGULATION_OF_MOLECULAR_FUNCTION	GO_REGULATION_OF_HYDROLASE_ACTIVITY					GO_NEUROGENESIS	GO_SMALL_GTPASE_MEDIATED_SIGNAL_TRANSDUCTION
+10636	RGS14	regulator of G protein signaling 14 [Source:HGNC Symbol;Acc:HGNC:9996]	GO_POSITIVE_REGULATION_OF_MOLECULAR_FUNCTION	GO_REGULATION_OF_HYDROLASE_ACTIVITY					GO_NEUROGENESIS		GO_NEURON_PROJECTION
 57522	SRGAP1	SLIT-ROBO Rho GTPase activating protein 1 [Source:HGNC Symbol;Acc:HGNC:17382]	GO_POSITIVE_REGULATION_OF_MOLECULAR_FUNCTION	GO_REGULATION_OF_HYDROLASE_ACTIVITY						GO_SMALL_GTPASE_MEDIATED_SIGNAL_TRANSDUCTION		GO_CELL_MOTILITY
-398	ARHGDIG	Rho GDP dissociation inhibitor gamma [Source:HGNC Symbol;Acc:HGNC:680]	GO_POSITIVE_REGULATION_OF_MOLECULAR_FUNCTION	GO_REGULATION_OF_HYDROLASE_ACTIVITY						GO_SMALL_GTPASE_MEDIATED_SIGNAL_TRANSDUCTION		
-94134	ARHGAP12	Rho GTPase activating protein 12 [Source:HGNC Symbol;Acc:HGNC:16348]	GO_POSITIVE_REGULATION_OF_MOLECULAR_FUNCTION	GO_REGULATION_OF_HYDROLASE_ACTIVITY						GO_SMALL_GTPASE_MEDIATED_SIGNAL_TRANSDUCTION		
-139818	DOCK11	dedicator of cytokinesis 11 [Source:HGNC Symbol;Acc:HGNC:23483]	GO_POSITIVE_REGULATION_OF_MOLECULAR_FUNCTION	GO_REGULATION_OF_HYDROLASE_ACTIVITY						GO_SMALL_GTPASE_MEDIATED_SIGNAL_TRANSDUCTION		
+398	ARHGDIG	Rho GDP dissociation inhibitor gamma [Source:HGNC Symbol;Acc:HGNC:680]	GO_POSITIVE_REGULATION_OF_MOLECULAR_FUNCTION	GO_REGULATION_OF_HYDROLASE_ACTIVITY						GO_SMALL_GTPASE_MEDIATED_SIGNAL_TRANSDUCTION
+94134	ARHGAP12	Rho GTPase activating protein 12 [Source:HGNC Symbol;Acc:HGNC:16348]	GO_POSITIVE_REGULATION_OF_MOLECULAR_FUNCTION	GO_REGULATION_OF_HYDROLASE_ACTIVITY						GO_SMALL_GTPASE_MEDIATED_SIGNAL_TRANSDUCTION
+139818	DOCK11	dedicator of cytokinesis 11 [Source:HGNC Symbol;Acc:HGNC:23483]	GO_POSITIVE_REGULATION_OF_MOLECULAR_FUNCTION	GO_REGULATION_OF_HYDROLASE_ACTIVITY						GO_SMALL_GTPASE_MEDIATED_SIGNAL_TRANSDUCTION
 6358	CCL14	C-C motif chemokine ligand 14 [Source:HGNC Symbol;Acc:HGNC:10612]	GO_POSITIVE_REGULATION_OF_MOLECULAR_FUNCTION	GO_REGULATION_OF_HYDROLASE_ACTIVITY								GO_CELL_MOTILITY
-134957	STXBP5	syntaxin binding protein 5 [Source:HGNC Symbol;Acc:HGNC:19665]	GO_POSITIVE_REGULATION_OF_MOLECULAR_FUNCTION	GO_REGULATION_OF_HYDROLASE_ACTIVITY								
-3267	AGFG1	ArfGAP with FG repeats 1 [Source:HGNC Symbol;Acc:HGNC:5175]	GO_POSITIVE_REGULATION_OF_MOLECULAR_FUNCTION	GO_REGULATION_OF_HYDROLASE_ACTIVITY								
-1611	DAP	death associated protein [Source:HGNC Symbol;Acc:HGNC:2672]	GO_POSITIVE_REGULATION_OF_MOLECULAR_FUNCTION	GO_REGULATION_OF_HYDROLASE_ACTIVITY								
-112399	EGLN3	egl-9 family hypoxia inducible factor 3 [Source:HGNC Symbol;Acc:HGNC:14661]	GO_POSITIVE_REGULATION_OF_MOLECULAR_FUNCTION	GO_REGULATION_OF_HYDROLASE_ACTIVITY								
-948	CD36	CD36 molecule [Source:HGNC Symbol;Acc:HGNC:1663]	GO_POSITIVE_REGULATION_OF_MOLECULAR_FUNCTION		GO_GOLGI_APPARATUS	GO_WHOLE_MEMBRANE						
+134957	STXBP5	syntaxin binding protein 5 [Source:HGNC Symbol;Acc:HGNC:19665]	GO_POSITIVE_REGULATION_OF_MOLECULAR_FUNCTION	GO_REGULATION_OF_HYDROLASE_ACTIVITY
+3267	AGFG1	ArfGAP with FG repeats 1 [Source:HGNC Symbol;Acc:HGNC:5175]	GO_POSITIVE_REGULATION_OF_MOLECULAR_FUNCTION	GO_REGULATION_OF_HYDROLASE_ACTIVITY
+1611	DAP	death associated protein [Source:HGNC Symbol;Acc:HGNC:2672]	GO_POSITIVE_REGULATION_OF_MOLECULAR_FUNCTION	GO_REGULATION_OF_HYDROLASE_ACTIVITY
+112399	EGLN3	egl-9 family hypoxia inducible factor 3 [Source:HGNC Symbol;Acc:HGNC:14661]	GO_POSITIVE_REGULATION_OF_MOLECULAR_FUNCTION	GO_REGULATION_OF_HYDROLASE_ACTIVITY
+948	CD36	CD36 molecule [Source:HGNC Symbol;Acc:HGNC:1663]	GO_POSITIVE_REGULATION_OF_MOLECULAR_FUNCTION		GO_GOLGI_APPARATUS	GO_WHOLE_MEMBRANE
 5604	MAP2K1	mitogen-activated protein kinase kinase 1 [Source:HGNC Symbol;Acc:HGNC:6840]	GO_POSITIVE_REGULATION_OF_MOLECULAR_FUNCTION		GO_GOLGI_APPARATUS				GO_NEUROGENESIS			GO_CELL_MOTILITY
-57103	TIGAR	TP53 induced glycolysis regulatory phosphatase [Source:HGNC Symbol;Acc:HGNC:1185]	GO_POSITIVE_REGULATION_OF_MOLECULAR_FUNCTION			GO_WHOLE_MEMBRANE						
-5476	CTSA	cathepsin A [Source:HGNC Symbol;Acc:HGNC:9251]	GO_POSITIVE_REGULATION_OF_MOLECULAR_FUNCTION			GO_WHOLE_MEMBRANE						
+57103	TIGAR	TP53 induced glycolysis regulatory phosphatase [Source:HGNC Symbol;Acc:HGNC:1185]	GO_POSITIVE_REGULATION_OF_MOLECULAR_FUNCTION			GO_WHOLE_MEMBRANE
+5476	CTSA	cathepsin A [Source:HGNC Symbol;Acc:HGNC:9251]	GO_POSITIVE_REGULATION_OF_MOLECULAR_FUNCTION			GO_WHOLE_MEMBRANE
 9464	HAND2	heart and neural crest derivatives expressed 2 [Source:HGNC Symbol;Acc:HGNC:4808]	GO_POSITIVE_REGULATION_OF_MOLECULAR_FUNCTION				GO_PROTEIN_HOMODIMERIZATION_ACTIVITY	GO_PROTEIN_DIMERIZATION_ACTIVITY	GO_NEUROGENESIS			GO_CELL_MOTILITY
-1147	CHUK	component of inhibitor of nuclear factor kappa B kinase complex [Source:HGNC Symbol;Acc:HGNC:1974]	GO_POSITIVE_REGULATION_OF_MOLECULAR_FUNCTION				GO_PROTEIN_HOMODIMERIZATION_ACTIVITY	GO_PROTEIN_DIMERIZATION_ACTIVITY		GO_SMALL_GTPASE_MEDIATED_SIGNAL_TRANSDUCTION		
-6886	TAL1	TAL bHLH transcription factor 1, erythroid differentiation factor [Source:HGNC Symbol;Acc:HGNC:11556]	GO_POSITIVE_REGULATION_OF_MOLECULAR_FUNCTION					GO_PROTEIN_DIMERIZATION_ACTIVITY	GO_NEUROGENESIS			
-64641	EBF2	EBF transcription factor 2 [Source:HGNC Symbol;Acc:HGNC:19090]	GO_POSITIVE_REGULATION_OF_MOLECULAR_FUNCTION					GO_PROTEIN_DIMERIZATION_ACTIVITY				
-5925	RB1	RB transcriptional corepressor 1 [Source:HGNC Symbol;Acc:HGNC:9884]	GO_POSITIVE_REGULATION_OF_MOLECULAR_FUNCTION						GO_NEUROGENESIS	GO_SMALL_GTPASE_MEDIATED_SIGNAL_TRANSDUCTION		
-3799	KIF5B	kinesin family member 5B [Source:HGNC Symbol;Acc:HGNC:6324]	GO_POSITIVE_REGULATION_OF_MOLECULAR_FUNCTION						GO_NEUROGENESIS		GO_NEURON_PROJECTION	
-3736	KCNA1	potassium voltage-gated channel subfamily A member 1 [Source:HGNC Symbol;Acc:HGNC:6218]	GO_POSITIVE_REGULATION_OF_MOLECULAR_FUNCTION						GO_NEUROGENESIS		GO_NEURON_PROJECTION	
+1147	CHUK	component of inhibitor of nuclear factor kappa B kinase complex [Source:HGNC Symbol;Acc:HGNC:1974]	GO_POSITIVE_REGULATION_OF_MOLECULAR_FUNCTION				GO_PROTEIN_HOMODIMERIZATION_ACTIVITY	GO_PROTEIN_DIMERIZATION_ACTIVITY		GO_SMALL_GTPASE_MEDIATED_SIGNAL_TRANSDUCTION
+6886	TAL1	TAL bHLH transcription factor 1, erythroid differentiation factor [Source:HGNC Symbol;Acc:HGNC:11556]	GO_POSITIVE_REGULATION_OF_MOLECULAR_FUNCTION					GO_PROTEIN_DIMERIZATION_ACTIVITY	GO_NEUROGENESIS
+64641	EBF2	EBF transcription factor 2 [Source:HGNC Symbol;Acc:HGNC:19090]	GO_POSITIVE_REGULATION_OF_MOLECULAR_FUNCTION					GO_PROTEIN_DIMERIZATION_ACTIVITY
+5925	RB1	RB transcriptional corepressor 1 [Source:HGNC Symbol;Acc:HGNC:9884]	GO_POSITIVE_REGULATION_OF_MOLECULAR_FUNCTION						GO_NEUROGENESIS	GO_SMALL_GTPASE_MEDIATED_SIGNAL_TRANSDUCTION
+3799	KIF5B	kinesin family member 5B [Source:HGNC Symbol;Acc:HGNC:6324]	GO_POSITIVE_REGULATION_OF_MOLECULAR_FUNCTION						GO_NEUROGENESIS		GO_NEURON_PROJECTION
+3736	KCNA1	potassium voltage-gated channel subfamily A member 1 [Source:HGNC Symbol;Acc:HGNC:6218]	GO_POSITIVE_REGULATION_OF_MOLECULAR_FUNCTION						GO_NEUROGENESIS		GO_NEURON_PROJECTION
 8543	LMO4	LIM domain only 4 [Source:HGNC Symbol;Acc:HGNC:6644]	GO_POSITIVE_REGULATION_OF_MOLECULAR_FUNCTION						GO_NEUROGENESIS			GO_CELL_MOTILITY
 23328	SASH1	SAM and SH3 domain containing 1 [Source:HGNC Symbol;Acc:HGNC:19182]	GO_POSITIVE_REGULATION_OF_MOLECULAR_FUNCTION									GO_CELL_MOTILITY
 84159	ARID5B	AT-rich interaction domain 5B [Source:HGNC Symbol;Acc:HGNC:17362]	GO_POSITIVE_REGULATION_OF_MOLECULAR_FUNCTION									GO_CELL_MOTILITY
-10746	MAP3K2	mitogen-activated protein kinase kinase kinase 2 [Source:HGNC Symbol;Acc:HGNC:6854]	GO_POSITIVE_REGULATION_OF_MOLECULAR_FUNCTION									
-1410	CRYAB	crystallin alpha B [Source:HGNC Symbol;Acc:HGNC:2389]		GO_REGULATION_OF_HYDROLASE_ACTIVITY	GO_GOLGI_APPARATUS		GO_PROTEIN_HOMODIMERIZATION_ACTIVITY	GO_PROTEIN_DIMERIZATION_ACTIVITY			GO_NEURON_PROJECTION	
-197	AHSG	alpha 2-HS glycoprotein [Source:HGNC Symbol;Acc:HGNC:349]		GO_REGULATION_OF_HYDROLASE_ACTIVITY	GO_GOLGI_APPARATUS							
-653145	ANXA8	annexin A8 [Source:HGNC Symbol;Acc:HGNC:546]		GO_REGULATION_OF_HYDROLASE_ACTIVITY		GO_WHOLE_MEMBRANE						
-124997	WDR81	WD repeat domain 81 [Source:HGNC Symbol;Acc:HGNC:26600]		GO_REGULATION_OF_HYDROLASE_ACTIVITY		GO_WHOLE_MEMBRANE						
+10746	MAP3K2	mitogen-activated protein kinase kinase kinase 2 [Source:HGNC Symbol;Acc:HGNC:6854]	GO_POSITIVE_REGULATION_OF_MOLECULAR_FUNCTION
+1410	CRYAB	crystallin alpha B [Source:HGNC Symbol;Acc:HGNC:2389]		GO_REGULATION_OF_HYDROLASE_ACTIVITY	GO_GOLGI_APPARATUS		GO_PROTEIN_HOMODIMERIZATION_ACTIVITY	GO_PROTEIN_DIMERIZATION_ACTIVITY			GO_NEURON_PROJECTION
+197	AHSG	alpha 2-HS glycoprotein [Source:HGNC Symbol;Acc:HGNC:349]		GO_REGULATION_OF_HYDROLASE_ACTIVITY	GO_GOLGI_APPARATUS
+653145	ANXA8	annexin A8 [Source:HGNC Symbol;Acc:HGNC:546]		GO_REGULATION_OF_HYDROLASE_ACTIVITY		GO_WHOLE_MEMBRANE
+124997	WDR81	WD repeat domain 81 [Source:HGNC Symbol;Acc:HGNC:26600]		GO_REGULATION_OF_HYDROLASE_ACTIVITY		GO_WHOLE_MEMBRANE
 153769	SH3RF2	SH3 domain containing ring finger 2 [Source:HGNC Symbol;Acc:HGNC:26299]		GO_REGULATION_OF_HYDROLASE_ACTIVITY								GO_CELL_MOTILITY
-221476	PI16	peptidase inhibitor 16 [Source:HGNC Symbol;Acc:HGNC:21245]		GO_REGULATION_OF_HYDROLASE_ACTIVITY								
-9891	NUAK1	NUAK family kinase 1 [Source:HGNC Symbol;Acc:HGNC:14311]		GO_REGULATION_OF_HYDROLASE_ACTIVITY								
-51156	SERPINA10	serpin family A member 10 [Source:HGNC Symbol;Acc:HGNC:15996]		GO_REGULATION_OF_HYDROLASE_ACTIVITY								
+221476	PI16	peptidase inhibitor 16 [Source:HGNC Symbol;Acc:HGNC:21245]		GO_REGULATION_OF_HYDROLASE_ACTIVITY
+9891	NUAK1	NUAK family kinase 1 [Source:HGNC Symbol;Acc:HGNC:14311]		GO_REGULATION_OF_HYDROLASE_ACTIVITY
+51156	SERPINA10	serpin family A member 10 [Source:HGNC Symbol;Acc:HGNC:15996]		GO_REGULATION_OF_HYDROLASE_ACTIVITY
 102	ADAM10	ADAM metallopeptidase domain 10 [Source:HGNC Symbol;Acc:HGNC:188]			GO_GOLGI_APPARATUS	GO_WHOLE_MEMBRANE	GO_PROTEIN_HOMODIMERIZATION_ACTIVITY	GO_PROTEIN_DIMERIZATION_ACTIVITY	GO_NEUROGENESIS		GO_NEURON_PROJECTION	GO_CELL_MOTILITY
-4905	NSF	N-ethylmaleimide sensitive factor, vesicle fusing ATPase [Source:HGNC Symbol;Acc:HGNC:8016]			GO_GOLGI_APPARATUS	GO_WHOLE_MEMBRANE					GO_NEURON_PROJECTION	
-55361	PI4K2A	phosphatidylinositol 4-kinase type 2 alpha [Source:HGNC Symbol;Acc:HGNC:30031]			GO_GOLGI_APPARATUS	GO_WHOLE_MEMBRANE					GO_NEURON_PROJECTION	
-25999	CLIP3	CAP-Gly domain containing linker protein 3 [Source:HGNC Symbol;Acc:HGNC:24314]			GO_GOLGI_APPARATUS	GO_WHOLE_MEMBRANE						
-138065	RNF183	ring finger protein 183 [Source:HGNC Symbol;Acc:HGNC:28721]			GO_GOLGI_APPARATUS	GO_WHOLE_MEMBRANE						
-92979	MARCHF9	membrane associated ring-CH-type finger 9 [Source:HGNC Symbol;Acc:HGNC:25139]			GO_GOLGI_APPARATUS	GO_WHOLE_MEMBRANE						
-359	AQP2	aquaporin 2 [Source:HGNC Symbol;Acc:HGNC:634]			GO_GOLGI_APPARATUS	GO_WHOLE_MEMBRANE						
-55773	TBC1D23	TBC1 domain family member 23 [Source:HGNC Symbol;Acc:HGNC:25622]			GO_GOLGI_APPARATUS				GO_NEUROGENESIS			
-10564	ARFGEF2	ADP ribosylation factor guanine nucleotide exchange factor 2 [Source:HGNC Symbol;Acc:HGNC:15853]			GO_GOLGI_APPARATUS					GO_SMALL_GTPASE_MEDIATED_SIGNAL_TRANSDUCTION	GO_NEURON_PROJECTION	
-9265	CYTH3	cytohesin 3 [Source:HGNC Symbol;Acc:HGNC:9504]			GO_GOLGI_APPARATUS					GO_SMALL_GTPASE_MEDIATED_SIGNAL_TRANSDUCTION		
-11341	SCRG1	stimulator of chondrogenesis 1 [Source:HGNC Symbol;Acc:HGNC:17036]			GO_GOLGI_APPARATUS						GO_NEURON_PROJECTION	
-340146	SLC35D3	solute carrier family 35 member D3 [Source:HGNC Symbol;Acc:HGNC:15621]			GO_GOLGI_APPARATUS							
-51542	VPS54	VPS54 subunit of GARP complex [Source:HGNC Symbol;Acc:HGNC:18652]			GO_GOLGI_APPARATUS							
-23431	AP4E1	adaptor related protein complex 4 subunit epsilon 1 [Source:HGNC Symbol;Acc:HGNC:573]			GO_GOLGI_APPARATUS							
-10466	COG5	component of oligomeric golgi complex 5 [Source:HGNC Symbol;Acc:HGNC:14857]			GO_GOLGI_APPARATUS							
-113419	TEX261	testis expressed 261 [Source:HGNC Symbol;Acc:HGNC:30712]			GO_GOLGI_APPARATUS							
-11018	TMED1	transmembrane p24 trafficking protein 1 [Source:HGNC Symbol;Acc:HGNC:17291]			GO_GOLGI_APPARATUS							
-9914	ATP2C2	ATPase secretory pathway Ca2+ transporting 2 [Source:HGNC Symbol;Acc:HGNC:29103]			GO_GOLGI_APPARATUS							
-7707	ZNF148	zinc finger protein 148 [Source:HGNC Symbol;Acc:HGNC:12933]			GO_GOLGI_APPARATUS							
-338596	ST8SIA6	ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 6 [Source:HGNC Symbol;Acc:HGNC:23317]			GO_GOLGI_APPARATUS							
-29940	DSE	dermatan sulfate epimerase [Source:HGNC Symbol;Acc:HGNC:21144]			GO_GOLGI_APPARATUS							
-818	CAMK2G	calcium/calmodulin dependent protein kinase II gamma [Source:HGNC Symbol;Acc:HGNC:1463]				GO_WHOLE_MEMBRANE	GO_PROTEIN_HOMODIMERIZATION_ACTIVITY	GO_PROTEIN_DIMERIZATION_ACTIVITY	GO_NEUROGENESIS		GO_NEURON_PROJECTION	
-10857	PGRMC1	progesterone receptor membrane component 1 [Source:HGNC Symbol;Acc:HGNC:16090]				GO_WHOLE_MEMBRANE	GO_PROTEIN_HOMODIMERIZATION_ACTIVITY	GO_PROTEIN_DIMERIZATION_ACTIVITY			GO_NEURON_PROJECTION	
-477	ATP1A2	ATPase Na+/K+ transporting subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:800]				GO_WHOLE_MEMBRANE		GO_PROTEIN_DIMERIZATION_ACTIVITY			GO_NEURON_PROJECTION	
-221955	DAGLB	diacylglycerol lipase beta [Source:HGNC Symbol;Acc:HGNC:28923]				GO_WHOLE_MEMBRANE			GO_NEUROGENESIS			
-9101	USP8	ubiquitin specific peptidase 8 [Source:HGNC Symbol;Acc:HGNC:12631]				GO_WHOLE_MEMBRANE				GO_SMALL_GTPASE_MEDIATED_SIGNAL_TRANSDUCTION	GO_NEURON_PROJECTION	
-83737	ITCH	itchy E3 ubiquitin protein ligase [Source:HGNC Symbol;Acc:HGNC:13890]				GO_WHOLE_MEMBRANE						
-9804	TOMM20	translocase of outer mitochondrial membrane 20 [Source:HGNC Symbol;Acc:HGNC:20947]				GO_WHOLE_MEMBRANE						
-27342	RABGEF1	RAB guanine nucleotide exchange factor 1 [Source:HGNC Symbol;Acc:HGNC:17676]				GO_WHOLE_MEMBRANE						
-1497	CTNS	cystinosin, lysosomal cystine transporter [Source:HGNC Symbol;Acc:HGNC:2518]				GO_WHOLE_MEMBRANE						
-8612	PLPP2	phospholipid phosphatase 2 [Source:HGNC Symbol;Acc:HGNC:9230]				GO_WHOLE_MEMBRANE						
-29895	MYLPF	myosin light chain, phosphorylatable, fast skeletal muscle [Source:HGNC Symbol;Acc:HGNC:29824]				GO_WHOLE_MEMBRANE						
-54996	MTARC2	mitochondrial amidoxime reducing component 2 [Source:HGNC Symbol;Acc:HGNC:26064]				GO_WHOLE_MEMBRANE						
+4905	NSF	N-ethylmaleimide sensitive factor, vesicle fusing ATPase [Source:HGNC Symbol;Acc:HGNC:8016]			GO_GOLGI_APPARATUS	GO_WHOLE_MEMBRANE					GO_NEURON_PROJECTION
+55361	PI4K2A	phosphatidylinositol 4-kinase type 2 alpha [Source:HGNC Symbol;Acc:HGNC:30031]			GO_GOLGI_APPARATUS	GO_WHOLE_MEMBRANE					GO_NEURON_PROJECTION
+25999	CLIP3	CAP-Gly domain containing linker protein 3 [Source:HGNC Symbol;Acc:HGNC:24314]			GO_GOLGI_APPARATUS	GO_WHOLE_MEMBRANE
+138065	RNF183	ring finger protein 183 [Source:HGNC Symbol;Acc:HGNC:28721]			GO_GOLGI_APPARATUS	GO_WHOLE_MEMBRANE
+92979	MARCHF9	membrane associated ring-CH-type finger 9 [Source:HGNC Symbol;Acc:HGNC:25139]			GO_GOLGI_APPARATUS	GO_WHOLE_MEMBRANE
+359	AQP2	aquaporin 2 [Source:HGNC Symbol;Acc:HGNC:634]			GO_GOLGI_APPARATUS	GO_WHOLE_MEMBRANE
+55773	TBC1D23	TBC1 domain family member 23 [Source:HGNC Symbol;Acc:HGNC:25622]			GO_GOLGI_APPARATUS				GO_NEUROGENESIS
+10564	ARFGEF2	ADP ribosylation factor guanine nucleotide exchange factor 2 [Source:HGNC Symbol;Acc:HGNC:15853]			GO_GOLGI_APPARATUS					GO_SMALL_GTPASE_MEDIATED_SIGNAL_TRANSDUCTION	GO_NEURON_PROJECTION
+9265	CYTH3	cytohesin 3 [Source:HGNC Symbol;Acc:HGNC:9504]			GO_GOLGI_APPARATUS					GO_SMALL_GTPASE_MEDIATED_SIGNAL_TRANSDUCTION
+11341	SCRG1	stimulator of chondrogenesis 1 [Source:HGNC Symbol;Acc:HGNC:17036]			GO_GOLGI_APPARATUS						GO_NEURON_PROJECTION
+340146	SLC35D3	solute carrier family 35 member D3 [Source:HGNC Symbol;Acc:HGNC:15621]			GO_GOLGI_APPARATUS
+51542	VPS54	VPS54 subunit of GARP complex [Source:HGNC Symbol;Acc:HGNC:18652]			GO_GOLGI_APPARATUS
+23431	AP4E1	adaptor related protein complex 4 subunit epsilon 1 [Source:HGNC Symbol;Acc:HGNC:573]			GO_GOLGI_APPARATUS
+10466	COG5	component of oligomeric golgi complex 5 [Source:HGNC Symbol;Acc:HGNC:14857]			GO_GOLGI_APPARATUS
+113419	TEX261	testis expressed 261 [Source:HGNC Symbol;Acc:HGNC:30712]			GO_GOLGI_APPARATUS
+11018	TMED1	transmembrane p24 trafficking protein 1 [Source:HGNC Symbol;Acc:HGNC:17291]			GO_GOLGI_APPARATUS
+9914	ATP2C2	ATPase secretory pathway Ca2+ transporting 2 [Source:HGNC Symbol;Acc:HGNC:29103]			GO_GOLGI_APPARATUS
+7707	ZNF148	zinc finger protein 148 [Source:HGNC Symbol;Acc:HGNC:12933]			GO_GOLGI_APPARATUS
+338596	ST8SIA6	ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 6 [Source:HGNC Symbol;Acc:HGNC:23317]			GO_GOLGI_APPARATUS
+29940	DSE	dermatan sulfate epimerase [Source:HGNC Symbol;Acc:HGNC:21144]			GO_GOLGI_APPARATUS
+818	CAMK2G	calcium/calmodulin dependent protein kinase II gamma [Source:HGNC Symbol;Acc:HGNC:1463]				GO_WHOLE_MEMBRANE	GO_PROTEIN_HOMODIMERIZATION_ACTIVITY	GO_PROTEIN_DIMERIZATION_ACTIVITY	GO_NEUROGENESIS		GO_NEURON_PROJECTION
+10857	PGRMC1	progesterone receptor membrane component 1 [Source:HGNC Symbol;Acc:HGNC:16090]				GO_WHOLE_MEMBRANE	GO_PROTEIN_HOMODIMERIZATION_ACTIVITY	GO_PROTEIN_DIMERIZATION_ACTIVITY			GO_NEURON_PROJECTION
+477	ATP1A2	ATPase Na+/K+ transporting subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:800]				GO_WHOLE_MEMBRANE		GO_PROTEIN_DIMERIZATION_ACTIVITY			GO_NEURON_PROJECTION
+221955	DAGLB	diacylglycerol lipase beta [Source:HGNC Symbol;Acc:HGNC:28923]				GO_WHOLE_MEMBRANE			GO_NEUROGENESIS
+9101	USP8	ubiquitin specific peptidase 8 [Source:HGNC Symbol;Acc:HGNC:12631]				GO_WHOLE_MEMBRANE				GO_SMALL_GTPASE_MEDIATED_SIGNAL_TRANSDUCTION	GO_NEURON_PROJECTION
+83737	ITCH	itchy E3 ubiquitin protein ligase [Source:HGNC Symbol;Acc:HGNC:13890]				GO_WHOLE_MEMBRANE
+9804	TOMM20	translocase of outer mitochondrial membrane 20 [Source:HGNC Symbol;Acc:HGNC:20947]				GO_WHOLE_MEMBRANE
+27342	RABGEF1	RAB guanine nucleotide exchange factor 1 [Source:HGNC Symbol;Acc:HGNC:17676]				GO_WHOLE_MEMBRANE
+1497	CTNS	cystinosin, lysosomal cystine transporter [Source:HGNC Symbol;Acc:HGNC:2518]				GO_WHOLE_MEMBRANE
+8612	PLPP2	phospholipid phosphatase 2 [Source:HGNC Symbol;Acc:HGNC:9230]				GO_WHOLE_MEMBRANE
+29895	MYLPF	myosin light chain, phosphorylatable, fast skeletal muscle [Source:HGNC Symbol;Acc:HGNC:29824]				GO_WHOLE_MEMBRANE
+54996	MTARC2	mitochondrial amidoxime reducing component 2 [Source:HGNC Symbol;Acc:HGNC:26064]				GO_WHOLE_MEMBRANE
 9585	KIF20B	kinesin family member 20B [Source:HGNC Symbol;Acc:HGNC:7212]					GO_PROTEIN_HOMODIMERIZATION_ACTIVITY	GO_PROTEIN_DIMERIZATION_ACTIVITY	GO_NEUROGENESIS		GO_NEURON_PROJECTION	GO_CELL_MOTILITY
-26258	BLOC1S6	biogenesis of lysosomal organelles complex 1 subunit 6 [Source:HGNC Symbol;Acc:HGNC:8549]					GO_PROTEIN_HOMODIMERIZATION_ACTIVITY	GO_PROTEIN_DIMERIZATION_ACTIVITY	GO_NEUROGENESIS		GO_NEURON_PROJECTION	
-23051	ZHX3	zinc fingers and homeoboxes 3 [Source:HGNC Symbol;Acc:HGNC:15935]					GO_PROTEIN_HOMODIMERIZATION_ACTIVITY	GO_PROTEIN_DIMERIZATION_ACTIVITY				
-1041	CDSN	corneodesmosin [Source:HGNC Symbol;Acc:HGNC:1802]					GO_PROTEIN_HOMODIMERIZATION_ACTIVITY	GO_PROTEIN_DIMERIZATION_ACTIVITY				
-26272	FBXO4	F-box protein 4 [Source:HGNC Symbol;Acc:HGNC:13583]					GO_PROTEIN_HOMODIMERIZATION_ACTIVITY	GO_PROTEIN_DIMERIZATION_ACTIVITY				
-1994	ELAVL1	ELAV like RNA binding protein 1 [Source:HGNC Symbol;Acc:HGNC:3312]					GO_PROTEIN_HOMODIMERIZATION_ACTIVITY	GO_PROTEIN_DIMERIZATION_ACTIVITY				
-57659	ZBTB4	zinc finger and BTB domain containing 4 [Source:HGNC Symbol;Acc:HGNC:23847]					GO_PROTEIN_HOMODIMERIZATION_ACTIVITY	GO_PROTEIN_DIMERIZATION_ACTIVITY				
-120227	CYP2R1	cytochrome P450 family 2 subfamily R member 1 [Source:HGNC Symbol;Acc:HGNC:20580]					GO_PROTEIN_HOMODIMERIZATION_ACTIVITY	GO_PROTEIN_DIMERIZATION_ACTIVITY				
-286257	PAXX	PAXX non-homologous end joining factor [Source:HGNC Symbol;Acc:HGNC:27849]					GO_PROTEIN_HOMODIMERIZATION_ACTIVITY	GO_PROTEIN_DIMERIZATION_ACTIVITY				
-5881	RAC3	Rac family small GTPase 3 [Source:HGNC Symbol;Acc:HGNC:9803]							GO_NEUROGENESIS	GO_SMALL_GTPASE_MEDIATED_SIGNAL_TRANSDUCTION	GO_NEURON_PROJECTION	
+26258	BLOC1S6	biogenesis of lysosomal organelles complex 1 subunit 6 [Source:HGNC Symbol;Acc:HGNC:8549]					GO_PROTEIN_HOMODIMERIZATION_ACTIVITY	GO_PROTEIN_DIMERIZATION_ACTIVITY	GO_NEUROGENESIS		GO_NEURON_PROJECTION
+23051	ZHX3	zinc fingers and homeoboxes 3 [Source:HGNC Symbol;Acc:HGNC:15935]					GO_PROTEIN_HOMODIMERIZATION_ACTIVITY	GO_PROTEIN_DIMERIZATION_ACTIVITY
+1041	CDSN	corneodesmosin [Source:HGNC Symbol;Acc:HGNC:1802]					GO_PROTEIN_HOMODIMERIZATION_ACTIVITY	GO_PROTEIN_DIMERIZATION_ACTIVITY
+26272	FBXO4	F-box protein 4 [Source:HGNC Symbol;Acc:HGNC:13583]					GO_PROTEIN_HOMODIMERIZATION_ACTIVITY	GO_PROTEIN_DIMERIZATION_ACTIVITY
+1994	ELAVL1	ELAV like RNA binding protein 1 [Source:HGNC Symbol;Acc:HGNC:3312]					GO_PROTEIN_HOMODIMERIZATION_ACTIVITY	GO_PROTEIN_DIMERIZATION_ACTIVITY
+57659	ZBTB4	zinc finger and BTB domain containing 4 [Source:HGNC Symbol;Acc:HGNC:23847]					GO_PROTEIN_HOMODIMERIZATION_ACTIVITY	GO_PROTEIN_DIMERIZATION_ACTIVITY
+120227	CYP2R1	cytochrome P450 family 2 subfamily R member 1 [Source:HGNC Symbol;Acc:HGNC:20580]					GO_PROTEIN_HOMODIMERIZATION_ACTIVITY	GO_PROTEIN_DIMERIZATION_ACTIVITY
+286257	PAXX	PAXX non-homologous end joining factor [Source:HGNC Symbol;Acc:HGNC:27849]					GO_PROTEIN_HOMODIMERIZATION_ACTIVITY	GO_PROTEIN_DIMERIZATION_ACTIVITY
+5881	RAC3	Rac family small GTPase 3 [Source:HGNC Symbol;Acc:HGNC:9803]							GO_NEUROGENESIS	GO_SMALL_GTPASE_MEDIATED_SIGNAL_TRANSDUCTION	GO_NEURON_PROJECTION
 91624	NEXN	nexilin F-actin binding protein [Source:HGNC Symbol;Acc:HGNC:29557]							GO_NEUROGENESIS		GO_NEURON_PROJECTION	GO_CELL_MOTILITY
-222662	LHFPL5	LHFPL tetraspan subfamily member 5 [Source:HGNC Symbol;Acc:HGNC:21253]							GO_NEUROGENESIS		GO_NEURON_PROJECTION	
+222662	LHFPL5	LHFPL tetraspan subfamily member 5 [Source:HGNC Symbol;Acc:HGNC:21253]							GO_NEUROGENESIS		GO_NEURON_PROJECTION
 64218	SEMA4A	semaphorin 4A [Source:HGNC Symbol;Acc:HGNC:10729]							GO_NEUROGENESIS			GO_CELL_MOTILITY
 2950	GSTP1	glutathione S-transferase pi 1 [Source:HGNC Symbol;Acc:HGNC:4638]							GO_NEUROGENESIS			GO_CELL_MOTILITY
 55140	ELP3	elongator acetyltransferase complex subunit 3 [Source:HGNC Symbol;Acc:HGNC:20696]							GO_NEUROGENESIS			GO_CELL_MOTILITY
-3170	FOXA2	forkhead box A2 [Source:HGNC Symbol;Acc:HGNC:5022]							GO_NEUROGENESIS			
-147040	KCTD11	potassium channel tetramerization domain containing 11 [Source:HGNC Symbol;Acc:HGNC:21302]							GO_NEUROGENESIS			
+3170	FOXA2	forkhead box A2 [Source:HGNC Symbol;Acc:HGNC:5022]							GO_NEUROGENESIS
+147040	KCTD11	potassium channel tetramerization domain containing 11 [Source:HGNC Symbol;Acc:HGNC:21302]							GO_NEUROGENESIS
 253980	KCTD13	potassium channel tetramerization domain containing 13 [Source:HGNC Symbol;Acc:HGNC:22234]								GO_SMALL_GTPASE_MEDIATED_SIGNAL_TRANSDUCTION		GO_CELL_MOTILITY
-58498	MYL7	myosin light chain 7 [Source:HGNC Symbol;Acc:HGNC:21719]									GO_NEURON_PROJECTION	
-3742	KCNA6	potassium voltage-gated channel subfamily A member 6 [Source:HGNC Symbol;Acc:HGNC:6225]									GO_NEURON_PROJECTION	
-2742	GLRA2	glycine receptor alpha 2 [Source:HGNC Symbol;Acc:HGNC:4327]									GO_NEURON_PROJECTION	
-345193	LRIT3	leucine rich repeat, Ig-like and transmembrane domains 3 [Source:HGNC Symbol;Acc:HGNC:24783]									GO_NEURON_PROJECTION	
+58498	MYL7	myosin light chain 7 [Source:HGNC Symbol;Acc:HGNC:21719]									GO_NEURON_PROJECTION
+3742	KCNA6	potassium voltage-gated channel subfamily A member 6 [Source:HGNC Symbol;Acc:HGNC:6225]									GO_NEURON_PROJECTION
+2742	GLRA2	glycine receptor alpha 2 [Source:HGNC Symbol;Acc:HGNC:4327]									GO_NEURON_PROJECTION
+345193	LRIT3	leucine rich repeat, Ig-like and transmembrane domains 3 [Source:HGNC Symbol;Acc:HGNC:24783]									GO_NEURON_PROJECTION
 642273	FAM110C	family with sequence similarity 110 member C [Source:HGNC Symbol;Acc:HGNC:33340]										GO_CELL_MOTILITY
 146057	TTBK2	tau tubulin kinase 2 [Source:HGNC Symbol;Acc:HGNC:19141]										GO_CELL_MOTILITY
 56271	BEX4	brain expressed X-linked 4 [Source:HGNC Symbol;Acc:HGNC:25475]										GO_CELL_MOTILITY
@@ -126,99 +126,99 @@ Entrez Gene Id	Gene Symbol	Gene Description	GO_POSITIVE_REGULATION_OF_MOLECULAR_
 4223	MEOX2	mesenchyme homeobox 2 [Source:HGNC Symbol;Acc:HGNC:7014]										GO_CELL_MOTILITY
 27285	TEKT2	tektin 2 [Source:HGNC Symbol;Acc:HGNC:11725]										GO_CELL_MOTILITY
 129787	TMEM18	transmembrane protein 18 [Source:HGNC Symbol;Acc:HGNC:25257]										GO_CELL_MOTILITY
-338773	TMEM119	transmembrane protein 119 [Source:HGNC Symbol;Acc:HGNC:27884]										
-646	BNC1	basonuclin 1 [Source:HGNC Symbol;Acc:HGNC:1081]										
-92304	SCGB3A1	secretoglobin family 3A member 1 [Source:HGNC Symbol;Acc:HGNC:18384]										
-25803	SPDEF	SAM pointed domain containing ETS transcription factor [Source:HGNC Symbol;Acc:HGNC:17257]										
-81575	APOLD1	apolipoprotein L domain containing 1 [Source:HGNC Symbol;Acc:HGNC:25268]										
-1674	DES	desmin [Source:HGNC Symbol;Acc:HGNC:2770]										
-54822	TRPM7	transient receptor potential cation channel subfamily M member 7 [Source:HGNC Symbol;Acc:HGNC:17994]										
-10529	NEBL	nebulette [Source:HGNC Symbol;Acc:HGNC:16932]										
-55064	SPATA6L	spermatogenesis associated 6 like [Source:HGNC Symbol;Acc:HGNC:25472]										
-1846	DUSP4	dual specificity phosphatase 4 [Source:HGNC Symbol;Acc:HGNC:3070]										
-197131	UBR1	ubiquitin protein ligase E3 component n-recognin 1 [Source:HGNC Symbol;Acc:HGNC:16808]										
-10551	AGR2	anterior gradient 2, protein disulphide isomerase family member [Source:HGNC Symbol;Acc:HGNC:328]										
-26280	IL1RAPL2	interleukin 1 receptor accessory protein like 2 [Source:HGNC Symbol;Acc:HGNC:5997]										
-10966	RAB40B	RAB40B, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:18284]										
-5137	PDE1C	phosphodiesterase 1C [Source:HGNC Symbol;Acc:HGNC:8776]										
-79602	ADIPOR2	adiponectin receptor 2 [Source:HGNC Symbol;Acc:HGNC:24041]										
-27297	CRCP	CGRP receptor component [Source:HGNC Symbol;Acc:HGNC:17888]										
-943	TNFRSF8	TNF receptor superfamily member 8 [Source:HGNC Symbol;Acc:HGNC:11923]										
-10671	DCTN6	dynactin subunit 6 [Source:HGNC Symbol;Acc:HGNC:16964]										
-10189	ALYREF	Aly/REF export factor [Source:HGNC Symbol;Acc:HGNC:19071]										
-4793	NFKBIB	NFKB inhibitor beta [Source:HGNC Symbol;Acc:HGNC:7798]										
-2850	GPR27	G protein-coupled receptor 27 [Source:HGNC Symbol;Acc:HGNC:4482]										
-57102	C12orf4	chromosome 12 open reading frame 4 [Source:HGNC Symbol;Acc:HGNC:1184]										
-10949	HNRNPA0	heterogeneous nuclear ribonucleoprotein A0 [Source:HGNC Symbol;Acc:HGNC:5030]										
-2746	GLUD1	glutamate dehydrogenase 1 [Source:HGNC Symbol;Acc:HGNC:4335]										
-6626	SNRPA	small nuclear ribonucleoprotein polypeptide A [Source:HGNC Symbol;Acc:HGNC:11151]										
-10714	POLD3	DNA polymerase delta 3, accessory subunit [Source:HGNC Symbol;Acc:HGNC:20932]										
-5737	PTGFR	prostaglandin F receptor [Source:HGNC Symbol;Acc:HGNC:9600]										
-2936	GSR	glutathione-disulfide reductase [Source:HGNC Symbol;Acc:HGNC:4623]										
-3787	KCNS1	potassium voltage-gated channel modifier subfamily S member 1 [Source:HGNC Symbol;Acc:HGNC:6300]										
-1968	EIF2S3	eukaryotic translation initiation factor 2 subunit gamma [Source:HGNC Symbol;Acc:HGNC:3267]										
-7142	TNP2	transition protein 2 [Source:HGNC Symbol;Acc:HGNC:11952]										
-6150	MRPL23	mitochondrial ribosomal protein L23 [Source:HGNC Symbol;Acc:HGNC:10322]										
-23233	EXOC6B	exocyst complex component 6B [Source:HGNC Symbol;Acc:HGNC:17085]										
-5834	PYGB	glycogen phosphorylase B [Source:HGNC Symbol;Acc:HGNC:9723]										
-54848	ARHGEF38	Rho guanine nucleotide exchange factor 38 [Source:HGNC Symbol;Acc:HGNC:25968]										
-151887	CCDC80	coiled-coil domain containing 80 [Source:HGNC Symbol;Acc:HGNC:30649]										
-53944	CSNK1G1	casein kinase 1 gamma 1 [Source:HGNC Symbol;Acc:HGNC:2454]										
-64122	FN3K	fructosamine 3 kinase [Source:HGNC Symbol;Acc:HGNC:24822]										
-79672	FN3KRP	fructosamine 3 kinase related protein [Source:HGNC Symbol;Acc:HGNC:25700]										
-283209	PGM2L1	phosphoglucomutase 2 like 1 [Source:HGNC Symbol;Acc:HGNC:20898]										
-4236	MFAP1	microfibril associated protein 1 [Source:HGNC Symbol;Acc:HGNC:7032]										
-57446	NDRG3	NDRG family member 3 [Source:HGNC Symbol;Acc:HGNC:14462]										
-54467	ANKIB1	ankyrin repeat and IBR domain containing 1 [Source:HGNC Symbol;Acc:HGNC:22215]										
-2705	GJB1	gap junction protein beta 1 [Source:HGNC Symbol;Acc:HGNC:4283]										
-94160	ABCC12	ATP binding cassette subfamily C member 12 [Source:HGNC Symbol;Acc:HGNC:14640]										
-5965	RECQL	RecQ like helicase [Source:HGNC Symbol;Acc:HGNC:9948]										
-284297	SSC5D	scavenger receptor cysteine rich family member with 5 domains [Source:HGNC Symbol;Acc:HGNC:26641]										
-3628	INPP1	inositol polyphosphate-1-phosphatase [Source:HGNC Symbol;Acc:HGNC:6071]										
-7559	ZNF12	zinc finger protein 12 [Source:HGNC Symbol;Acc:HGNC:12902]										
-201255	LRRC45	leucine rich repeat containing 45 [Source:HGNC Symbol;Acc:HGNC:28302]										
-7173	TPO	thyroid peroxidase [Source:HGNC Symbol;Acc:HGNC:12015]										
-11185	INMT	indolethylamine N-methyltransferase [Source:HGNC Symbol;Acc:HGNC:6069]										
-84196	USP48	ubiquitin specific peptidase 48 [Source:HGNC Symbol;Acc:HGNC:18533]										
-54878	DPP8	dipeptidyl peptidase 8 [Source:HGNC Symbol;Acc:HGNC:16490]										
-26018	LRIG1	leucine rich repeats and immunoglobulin like domains 1 [Source:HGNC Symbol;Acc:HGNC:17360]										
-8028	MLLT10	MLLT10 histone lysine methyltransferase DOT1L cofactor [Source:HGNC Symbol;Acc:HGNC:16063]										
-23007	PLCH1	phospholipase C eta 1 [Source:HGNC Symbol;Acc:HGNC:29185]										
-27129	HSPB7	heat shock protein family B (small) member 7 [Source:HGNC Symbol;Acc:HGNC:5249]										
-139378	ADGRG4	adhesion G protein-coupled receptor G4 [Source:HGNC Symbol;Acc:HGNC:18992]										
-283383	ADGRD1	adhesion G protein-coupled receptor D1 [Source:HGNC Symbol;Acc:HGNC:19893]										
-284348	LYPD5	LY6/PLAUR domain containing 5 [Source:HGNC Symbol;Acc:HGNC:26397]										
-10216	PRG4	proteoglycan 4 [Source:HGNC Symbol;Acc:HGNC:9364]										
-125	ADH1B	alcohol dehydrogenase 1B (class I), beta polypeptide [Source:HGNC Symbol;Acc:HGNC:250]										
-128209	KLF17	Kruppel like factor 17 [Source:HGNC Symbol;Acc:HGNC:18830]										
-146050	ZSCAN29	zinc finger and SCAN domain containing 29 [Source:HGNC Symbol;Acc:HGNC:26673]										
-284323	ZNF780A	zinc finger protein 780A [Source:HGNC Symbol;Acc:HGNC:27603]										
-57136	APMAP	adipocyte plasma membrane associated protein [Source:HGNC Symbol;Acc:HGNC:13238]										
-116135	LRRC3B	leucine rich repeat containing 3B [Source:HGNC Symbol;Acc:HGNC:28105]										
-158062	LCN6	lipocalin 6 [Source:HGNC Symbol;Acc:HGNC:17337]										
-1479	CSTF3	cleavage stimulation factor subunit 3 [Source:HGNC Symbol;Acc:HGNC:2485]										
-440590	ZYG11A	zyg-11 family member A, cell cycle regulator [Source:HGNC Symbol;Acc:HGNC:32058]										
-3338	DNAJC4	DnaJ heat shock protein family (Hsp40) member C4 [Source:HGNC Symbol;Acc:HGNC:5271]										
-138311	DIPK1B	divergent protein kinase domain 1B [Source:HGNC Symbol;Acc:HGNC:28290]										
-79762	C1orf115	chromosome 1 open reading frame 115 [Source:HGNC Symbol;Acc:HGNC:25873]										
-154790	CLEC2L	C-type lectin domain family 2 member L [Source:HGNC Symbol;Acc:HGNC:21969]										
-51015	ISOC1	isochorismatase domain containing 1 [Source:HGNC Symbol;Acc:HGNC:24254]										
-55756	INTS9	integrator complex subunit 9 [Source:HGNC Symbol;Acc:HGNC:25592]										
-105375355	UPK3B	uroplakin 3B [Source:HGNC Symbol;Acc:HGNC:21444]										
-112268389	FAM66D	family with sequence similarity 66 member D [Source:HGNC Symbol;Acc:HGNC:24159]										
-140876	RIPOR3	RIPOR family member 3 [Source:HGNC Symbol;Acc:HGNC:16168]										
-157574	FBXO16	F-box protein 16 [Source:HGNC Symbol;Acc:HGNC:13618]										
-163115	ZNF781	zinc finger protein 781 [Source:HGNC Symbol;Acc:HGNC:26745]										
-196472	FAM71C	family with sequence similarity 71 member C [Source:HGNC Symbol;Acc:HGNC:28594]										
-202865	C7orf33	chromosome 7 open reading frame 33 [Source:HGNC Symbol;Acc:HGNC:21724]										
-220594	USP32P2	ubiquitin specific peptidase 32 pseudogene 2 [Source:HGNC Symbol;Acc:HGNC:30751]										
-255349	TMEM211	transmembrane protein 211 [Source:HGNC Symbol;Acc:HGNC:33725]										
-257358	LINC01366	long intergenic non-protein coding RNA 1366 [Source:HGNC Symbol;Acc:HGNC:27416]										
-280659	SSX8P	SSX family member 8, pseudogene [Source:HGNC Symbol;Acc:HGNC:19654]										
-285045	LINC00486	long intergenic non-protein coding RNA 486 [Source:HGNC Symbol;Acc:HGNC:42946]										
-347475	CCDC160	coiled-coil domain containing 160 [Source:HGNC Symbol;Acc:HGNC:37286]										
-55222	LRRC20	leucine rich repeat containing 20 [Source:HGNC Symbol;Acc:HGNC:23421]										
-644538	SMIM10	small integral membrane protein 10 [Source:HGNC Symbol;Acc:HGNC:41913]										
-7754	ZNF204P	zinc finger protein 204, pseudogene [Source:HGNC Symbol;Acc:HGNC:12995]										
-79804	HAND2-AS1	HAND2 antisense RNA 1 [Source:HGNC Symbol;Acc:HGNC:48872]										
-90557	CCDC74A	coiled-coil domain containing 74A [Source:HGNC Symbol;Acc:HGNC:25197]										
+338773	TMEM119	transmembrane protein 119 [Source:HGNC Symbol;Acc:HGNC:27884]
+646	BNC1	basonuclin 1 [Source:HGNC Symbol;Acc:HGNC:1081]
+92304	SCGB3A1	secretoglobin family 3A member 1 [Source:HGNC Symbol;Acc:HGNC:18384]
+25803	SPDEF	SAM pointed domain containing ETS transcription factor [Source:HGNC Symbol;Acc:HGNC:17257]
+81575	APOLD1	apolipoprotein L domain containing 1 [Source:HGNC Symbol;Acc:HGNC:25268]
+1674	DES	desmin [Source:HGNC Symbol;Acc:HGNC:2770]
+54822	TRPM7	transient receptor potential cation channel subfamily M member 7 [Source:HGNC Symbol;Acc:HGNC:17994]
+10529	NEBL	nebulette [Source:HGNC Symbol;Acc:HGNC:16932]
+55064	SPATA6L	spermatogenesis associated 6 like [Source:HGNC Symbol;Acc:HGNC:25472]
+1846	DUSP4	dual specificity phosphatase 4 [Source:HGNC Symbol;Acc:HGNC:3070]
+197131	UBR1	ubiquitin protein ligase E3 component n-recognin 1 [Source:HGNC Symbol;Acc:HGNC:16808]
+10551	AGR2	anterior gradient 2, protein disulphide isomerase family member [Source:HGNC Symbol;Acc:HGNC:328]
+26280	IL1RAPL2	interleukin 1 receptor accessory protein like 2 [Source:HGNC Symbol;Acc:HGNC:5997]
+10966	RAB40B	RAB40B, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:18284]
+5137	PDE1C	phosphodiesterase 1C [Source:HGNC Symbol;Acc:HGNC:8776]
+79602	ADIPOR2	adiponectin receptor 2 [Source:HGNC Symbol;Acc:HGNC:24041]
+27297	CRCP	CGRP receptor component [Source:HGNC Symbol;Acc:HGNC:17888]
+943	TNFRSF8	TNF receptor superfamily member 8 [Source:HGNC Symbol;Acc:HGNC:11923]
+10671	DCTN6	dynactin subunit 6 [Source:HGNC Symbol;Acc:HGNC:16964]
+10189	ALYREF	Aly/REF export factor [Source:HGNC Symbol;Acc:HGNC:19071]
+4793	NFKBIB	NFKB inhibitor beta [Source:HGNC Symbol;Acc:HGNC:7798]
+2850	GPR27	G protein-coupled receptor 27 [Source:HGNC Symbol;Acc:HGNC:4482]
+57102	C12orf4	chromosome 12 open reading frame 4 [Source:HGNC Symbol;Acc:HGNC:1184]
+10949	HNRNPA0	heterogeneous nuclear ribonucleoprotein A0 [Source:HGNC Symbol;Acc:HGNC:5030]
+2746	GLUD1	glutamate dehydrogenase 1 [Source:HGNC Symbol;Acc:HGNC:4335]
+6626	SNRPA	small nuclear ribonucleoprotein polypeptide A [Source:HGNC Symbol;Acc:HGNC:11151]
+10714	POLD3	DNA polymerase delta 3, accessory subunit [Source:HGNC Symbol;Acc:HGNC:20932]
+5737	PTGFR	prostaglandin F receptor [Source:HGNC Symbol;Acc:HGNC:9600]
+2936	GSR	glutathione-disulfide reductase [Source:HGNC Symbol;Acc:HGNC:4623]
+3787	KCNS1	potassium voltage-gated channel modifier subfamily S member 1 [Source:HGNC Symbol;Acc:HGNC:6300]
+1968	EIF2S3	eukaryotic translation initiation factor 2 subunit gamma [Source:HGNC Symbol;Acc:HGNC:3267]
+7142	TNP2	transition protein 2 [Source:HGNC Symbol;Acc:HGNC:11952]
+6150	MRPL23	mitochondrial ribosomal protein L23 [Source:HGNC Symbol;Acc:HGNC:10322]
+23233	EXOC6B	exocyst complex component 6B [Source:HGNC Symbol;Acc:HGNC:17085]
+5834	PYGB	glycogen phosphorylase B [Source:HGNC Symbol;Acc:HGNC:9723]
+54848	ARHGEF38	Rho guanine nucleotide exchange factor 38 [Source:HGNC Symbol;Acc:HGNC:25968]
+151887	CCDC80	coiled-coil domain containing 80 [Source:HGNC Symbol;Acc:HGNC:30649]
+53944	CSNK1G1	casein kinase 1 gamma 1 [Source:HGNC Symbol;Acc:HGNC:2454]
+64122	FN3K	fructosamine 3 kinase [Source:HGNC Symbol;Acc:HGNC:24822]
+79672	FN3KRP	fructosamine 3 kinase related protein [Source:HGNC Symbol;Acc:HGNC:25700]
+283209	PGM2L1	phosphoglucomutase 2 like 1 [Source:HGNC Symbol;Acc:HGNC:20898]
+4236	MFAP1	microfibril associated protein 1 [Source:HGNC Symbol;Acc:HGNC:7032]
+57446	NDRG3	NDRG family member 3 [Source:HGNC Symbol;Acc:HGNC:14462]
+54467	ANKIB1	ankyrin repeat and IBR domain containing 1 [Source:HGNC Symbol;Acc:HGNC:22215]
+2705	GJB1	gap junction protein beta 1 [Source:HGNC Symbol;Acc:HGNC:4283]
+94160	ABCC12	ATP binding cassette subfamily C member 12 [Source:HGNC Symbol;Acc:HGNC:14640]
+5965	RECQL	RecQ like helicase [Source:HGNC Symbol;Acc:HGNC:9948]
+284297	SSC5D	scavenger receptor cysteine rich family member with 5 domains [Source:HGNC Symbol;Acc:HGNC:26641]
+3628	INPP1	inositol polyphosphate-1-phosphatase [Source:HGNC Symbol;Acc:HGNC:6071]
+7559	ZNF12	zinc finger protein 12 [Source:HGNC Symbol;Acc:HGNC:12902]
+201255	LRRC45	leucine rich repeat containing 45 [Source:HGNC Symbol;Acc:HGNC:28302]
+7173	TPO	thyroid peroxidase [Source:HGNC Symbol;Acc:HGNC:12015]
+11185	INMT	indolethylamine N-methyltransferase [Source:HGNC Symbol;Acc:HGNC:6069]
+84196	USP48	ubiquitin specific peptidase 48 [Source:HGNC Symbol;Acc:HGNC:18533]
+54878	DPP8	dipeptidyl peptidase 8 [Source:HGNC Symbol;Acc:HGNC:16490]
+26018	LRIG1	leucine rich repeats and immunoglobulin like domains 1 [Source:HGNC Symbol;Acc:HGNC:17360]
+8028	MLLT10	MLLT10 histone lysine methyltransferase DOT1L cofactor [Source:HGNC Symbol;Acc:HGNC:16063]
+23007	PLCH1	phospholipase C eta 1 [Source:HGNC Symbol;Acc:HGNC:29185]
+27129	HSPB7	heat shock protein family B (small) member 7 [Source:HGNC Symbol;Acc:HGNC:5249]
+139378	ADGRG4	adhesion G protein-coupled receptor G4 [Source:HGNC Symbol;Acc:HGNC:18992]
+283383	ADGRD1	adhesion G protein-coupled receptor D1 [Source:HGNC Symbol;Acc:HGNC:19893]
+284348	LYPD5	LY6/PLAUR domain containing 5 [Source:HGNC Symbol;Acc:HGNC:26397]
+10216	PRG4	proteoglycan 4 [Source:HGNC Symbol;Acc:HGNC:9364]
+125	ADH1B	alcohol dehydrogenase 1B (class I), beta polypeptide [Source:HGNC Symbol;Acc:HGNC:250]
+128209	KLF17	Kruppel like factor 17 [Source:HGNC Symbol;Acc:HGNC:18830]
+146050	ZSCAN29	zinc finger and SCAN domain containing 29 [Source:HGNC Symbol;Acc:HGNC:26673]
+284323	ZNF780A	zinc finger protein 780A [Source:HGNC Symbol;Acc:HGNC:27603]
+57136	APMAP	adipocyte plasma membrane associated protein [Source:HGNC Symbol;Acc:HGNC:13238]
+116135	LRRC3B	leucine rich repeat containing 3B [Source:HGNC Symbol;Acc:HGNC:28105]
+158062	LCN6	lipocalin 6 [Source:HGNC Symbol;Acc:HGNC:17337]
+1479	CSTF3	cleavage stimulation factor subunit 3 [Source:HGNC Symbol;Acc:HGNC:2485]
+440590	ZYG11A	zyg-11 family member A, cell cycle regulator [Source:HGNC Symbol;Acc:HGNC:32058]
+3338	DNAJC4	DnaJ heat shock protein family (Hsp40) member C4 [Source:HGNC Symbol;Acc:HGNC:5271]
+138311	DIPK1B	divergent protein kinase domain 1B [Source:HGNC Symbol;Acc:HGNC:28290]
+79762	C1orf115	chromosome 1 open reading frame 115 [Source:HGNC Symbol;Acc:HGNC:25873]
+154790	CLEC2L	C-type lectin domain family 2 member L [Source:HGNC Symbol;Acc:HGNC:21969]
+51015	ISOC1	isochorismatase domain containing 1 [Source:HGNC Symbol;Acc:HGNC:24254]
+55756	INTS9	integrator complex subunit 9 [Source:HGNC Symbol;Acc:HGNC:25592]
+105375355	UPK3B	uroplakin 3B [Source:HGNC Symbol;Acc:HGNC:21444]
+112268389	FAM66D	family with sequence similarity 66 member D [Source:HGNC Symbol;Acc:HGNC:24159]
+140876	RIPOR3	RIPOR family member 3 [Source:HGNC Symbol;Acc:HGNC:16168]
+157574	FBXO16	F-box protein 16 [Source:HGNC Symbol;Acc:HGNC:13618]
+163115	ZNF781	zinc finger protein 781 [Source:HGNC Symbol;Acc:HGNC:26745]
+196472	FAM71C	family with sequence similarity 71 member C [Source:HGNC Symbol;Acc:HGNC:28594]
+202865	C7orf33	chromosome 7 open reading frame 33 [Source:HGNC Symbol;Acc:HGNC:21724]
+220594	USP32P2	ubiquitin specific peptidase 32 pseudogene 2 [Source:HGNC Symbol;Acc:HGNC:30751]
+255349	TMEM211	transmembrane protein 211 [Source:HGNC Symbol;Acc:HGNC:33725]
+257358	LINC01366	long intergenic non-protein coding RNA 1366 [Source:HGNC Symbol;Acc:HGNC:27416]
+280659	SSX8P	SSX family member 8, pseudogene [Source:HGNC Symbol;Acc:HGNC:19654]
+285045	LINC00486	long intergenic non-protein coding RNA 486 [Source:HGNC Symbol;Acc:HGNC:42946]
+347475	CCDC160	coiled-coil domain containing 160 [Source:HGNC Symbol;Acc:HGNC:37286]
+55222	LRRC20	leucine rich repeat containing 20 [Source:HGNC Symbol;Acc:HGNC:23421]
+644538	SMIM10	small integral membrane protein 10 [Source:HGNC Symbol;Acc:HGNC:41913]
+7754	ZNF204P	zinc finger protein 204, pseudogene [Source:HGNC Symbol;Acc:HGNC:12995]
+79804	HAND2-AS1	HAND2 antisense RNA 1 [Source:HGNC Symbol;Acc:HGNC:48872]
+90557	CCDC74A	coiled-coil domain containing 74A [Source:HGNC Symbol;Acc:HGNC:25197]

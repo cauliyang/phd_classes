@@ -15,7 +15,7 @@ import numpy as np
 
 
 def main(data2, k, flag):
-    """ Conduct KNeighborClassifier for data2
+    """Conduct KNeighborClassifier for data2
 
     :param data2: data2 file
     :type data2: str
@@ -29,18 +29,24 @@ def main(data2, k, flag):
     data2 = np.load(data2)
 
     if flag:
-        train_data, train_label = data2['training_data'], data2['training_label']
-        test_data, test_label = data2['testing_data'], data2['testing_label']
+        train_data, train_label = data2["training_data"], data2["training_label"]
+        test_data, test_label = data2["testing_data"], data2["testing_label"]
     else:
-        train_data, train_label = data2['training_data'][:, :1000], data2['training_label'][:1000]
-        test_data, test_label = data2['testing_data'][:, :1000], data2['testing_label'][:1000]
+        train_data, train_label = (
+            data2["training_data"][:, :1000],
+            data2["training_label"][:1000],
+        )
+        test_data, test_label = (
+            data2["testing_data"][:, :1000],
+            data2["testing_label"][:1000],
+        )
 
     knn = KNeighborsClassifier(n_neighbors=k)
     knn.fit(train_data, y=train_label)
     pred = knn.predict(test_data)
-    return f'{accuracy_score(test_label, pred):e}'
+    return f"{accuracy_score(test_label, pred):e}"
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     pass
     # main(data2, k, flag)
