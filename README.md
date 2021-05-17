@@ -9,7 +9,7 @@ For some notebooks, I will share the link of [Colab](https://colab.research.goog
 
 # Author Information
 
-author: YangyangLi
+author: [YangyangLi](https://yangyangli.top)
 
 contact:li002252@umn.edu
 
